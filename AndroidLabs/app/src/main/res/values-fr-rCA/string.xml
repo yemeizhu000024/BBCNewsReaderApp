@@ -9,4 +9,7 @@
     <string name="enter_your_name">Entrez votre nom</string>
     <string name="hint_name">Veuillez entrer votre nom</string>
     <string name="next">Suivant</string>
+    <string name="type_here">Tapez ici</string>
+    <string name="add">Ajouter</string>
+    <string name="urgent">Urgent</string>
 </resources>

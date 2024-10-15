@@ -8,4 +8,8 @@
     <string name="enter_your_name">Enter Your Name</string>
     <string name="hint_name">Please enter your name</string>
     <string name="next">Next</string>
+    <string name="type_here">Type here</string>
+    <string name="add">Add</string>
+    <string name="urgent">Urgent</string>
+    <string name="todo_item_text" translatable="false">To-Do item descriotion</string>>
 </resources>
